@@ -1,10 +1,10 @@
 # CH376s
 
- v1.0.0
+ v2.0.0
 
 This is an Arduino library for the serial USB CH376s
 
-Aruino Mega 2560, Serial3
+Any Arduino Serial port can be used in .begin statement
 
 
 
