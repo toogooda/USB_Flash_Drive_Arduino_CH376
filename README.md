@@ -18,6 +18,8 @@ Can read from any starting point in a file and return x characters.
 
 Can dump entire file contents to indicated Serial Port.
 
+Also fixes a bug in V1.0.0 that would write to the file incorrectly after 512 characters had been sent.
+
 http://img.dxcdn.com/productimages/sku_217605_1.jpg
 
 
