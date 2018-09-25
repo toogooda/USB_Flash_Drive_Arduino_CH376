@@ -10,9 +10,9 @@ In V2.0.0 you...
 
 Can rename a file.
 
-Can change File Create Date.
+Can change/set/read File Create Date.
 
-Can change File Modifed Date.
+Can change/set/read File Modifed Date.
 
 Can read from any starting point in a file and return x characters.
 
