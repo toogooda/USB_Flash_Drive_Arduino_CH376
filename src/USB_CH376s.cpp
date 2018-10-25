@@ -304,6 +304,8 @@ unsigned short year;
 
 
 void USB_CH376s::setFileName(String fileName) {
+  fileName.toUpperCase();//do it here.  If it's not upper case then the file is created
+  //but you cannot access the file from windows!
   _serial->write(0x57);
   _serial->write(0xAB);
   _serial->write(0x2F);
