@@ -33,3 +33,5 @@ Copy File
 Move File
 
 Moved Hex commands to definitions for easy reading
+
+ - User friendly example
