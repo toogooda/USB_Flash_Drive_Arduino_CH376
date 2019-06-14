@@ -14,7 +14,7 @@ The module or IC is readiliy abvailable very cheap from China
 
 [Official documentation download](https://github.com/toogooda/USB_Flash_Drive_Arduino_CH376/blob/master/CH376EVT.ZIP)
 
-
+[Chinese Programing Maunual translated to English](https://github.com/toogooda/USB_Flash_Drive_Arduino_CH376/blob/master/Documentation/CH376%C2%A6%C3%93%C2%A6%C2%A6%C3%8D%C2%A9-%C2%A4.zh-CN.en.PDF)
 ## In V2.0.0 you...
 
  - Can rename a file.
