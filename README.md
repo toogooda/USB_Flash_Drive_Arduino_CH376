@@ -43,3 +43,7 @@ The module or IC is readiliy abvailable very cheap from China
 - Moved Hex commands to definitions for easy reading
 
 - User friendly example
+
+## Longer term
+
+ - USB HID starting with keyboard
