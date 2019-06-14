@@ -15,7 +15,6 @@ https://www.aliexpress.com/item/CH376-CH376s-USB-Module-U-Disk-Module/3296930094
 ## In V2.0.0 you...
 
  - Can rename a file.
-
  - Can change/set/read File Create Date.
 
  - Can change/set/read File Modifed Date.
