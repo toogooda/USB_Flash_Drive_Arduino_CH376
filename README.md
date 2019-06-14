@@ -1,4 +1,4 @@
-# CH376s
+# USB Flash Drive for Arduino usinf CH376s IC
 
  v2.0.0
 
